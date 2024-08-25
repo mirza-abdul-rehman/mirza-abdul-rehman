@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mirza-abdul-rehman
 - 👀 I’m interested in Operating System...
-- 🌱 I’m Electronics & Telecommunication Engineer
+- 🌱 I’m a Electronics & Telecommunication Engineer
 - 💞️ I’m looking to collaborate on something related to above lines
 - 📫 How to reach me just leave a message
 
